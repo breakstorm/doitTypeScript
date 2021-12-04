@@ -1,2 +1,2 @@
-import {testMakePerson} from './makePerson';
+import {testMakePerson} from './utils/makePerson';
 testMakePerson();
